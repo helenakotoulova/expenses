@@ -1,0 +1,25 @@
+body {
+    text-align:center;
+}
+
+.firstPart {
+    background-color: #9fd3c7;
+    width: 600px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.addNewExpButton {
+    font-size:100%;
+    background-color:#385170;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.addNewExpButton:hover,
+.addNewExpButton:active {
+    color:#385170;
+    background-color:#ececec;
+}

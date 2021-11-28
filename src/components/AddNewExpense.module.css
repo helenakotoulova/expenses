@@ -1,0 +1,21 @@
+form {
+    background-color:#ececec;
+    padding:20px;
+    margin-top: 20px;
+    width: 300px;
+    margin:20px auto;
+    border-radius: 5px;
+}
+
+form div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+form label {
+    margin-right: 5px;
+}
+
+form span {
+    margin-left: 5px;
+}
