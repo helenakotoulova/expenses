@@ -4,18 +4,39 @@ form {
     margin-top: 20px;
     width: 300px;
     margin:20px auto;
-    border-radius: 5px;
+    border-radius: 20px;
+    text-align: left;
 }
 
 form div {
     margin-top: 10px;
     margin-bottom: 10px;
+    /*text-align: right;*/
 }
 
 form label {
     margin-right: 5px;
+    /*text-align: left;*/
 }
 
 form span {
     margin-left: 5px;
+}
+
+.actions {
+    text-align: right;
+}
+form button {
+    font-size: 90%;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #606470 ;
+    color: white;
+
+}
+
+form button:hover,
+form button:active {
+    background-color:#9ba6a5 ;
+    color:black;
 }

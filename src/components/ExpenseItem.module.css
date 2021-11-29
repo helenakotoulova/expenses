@@ -1,0 +1,50 @@
+li {
+    width: 600px;
+    margin:20px auto;
+    padding: 5px 30px;
+    border-radius: 10px;
+    background-color: #53a8b6;
+    display: flex;
+    justify-content:space-between; /*align horizontally*/
+    align-items: center; /* align vertically*/
+}
+
+.ikona {
+    margin-right:5px;
+    display: block;
+    align-items: center;
+    margin-bottom: 0;
+    padding-top: 20px;
+}
+
+.datumDiv {
+    /*margin-left: 0;*/
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.datum {
+    display:block;
+    margin-top: 0;
+    padding-top:0;
+}
+/*
+.title {
+    display:inline-block;
+}
+
+.castka {
+    display:inline-block;
+}
+/*
+.castkaDiv {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nazevDiv {
+    text-align: center;
+
+}
+*/
